@@ -1,4 +1,4 @@
-### There's only so much time left
+## 🌠 There's only so much time left
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alphacygni)](https://solved.ac/alphacygni)
 
