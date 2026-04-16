@@ -1,4 +1,8 @@
 ## 🌠 There's only so much time left
+🏫 **B.E.** in **Electronic Engineering** / **Computer Science & Engineering** (Double Major) | **Sogang University** (Expected Feb 2027)  
+🏫 CNSH 25th
+
+---
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alphacygni)](https://solved.ac/alphacygni)
 
